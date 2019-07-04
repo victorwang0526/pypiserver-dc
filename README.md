@@ -2,6 +2,10 @@
 
 ref https://pypiserver.readthedocs.io
 
+### generate your own htpasswd
+
+http://www.htaccesstools.com/htpasswd-generator/
+
 ### start pypi server
 
 > docker-compose up -d
