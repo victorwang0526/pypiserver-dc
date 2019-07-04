@@ -12,6 +12,10 @@ http://www.htaccesstools.com/htpasswd-generator/
 
 then access url http://localhost:18080/
 
+## give permission
+
+> chmod ugo+rwx pypiserver-dc -R
+
 
 ### upload package to server
 
