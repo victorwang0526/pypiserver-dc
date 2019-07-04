@@ -1,0 +1,2 @@
+# pypiserver-dc
+docker compose
